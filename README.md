@@ -1,5 +1,7 @@
 ### Project Description: Employee Salary Calculator
 
+<img sec="https://www.cutehr.io/wp-content/uploads/2020/04/payroll-page-illustration-open-file-1316x800.png" height="auto" width="3000px">
+
  Introduction:
 The Employee Salary Calculator is a C++ program designed to automate the process of calculating and displaying the salary details of an employee based on various input parameters such as hourly rate, hours worked per day, work days, bonus percentage, and employee position. This program streamlines the task of payroll processing and provides a clear overview of an employee's compensation.
 
